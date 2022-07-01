@@ -1,0 +1,102 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "India home demolitions: 'You broke a family'",
+      "description": "The demolition of Muslim activist Afreen Fatima's house in India has left her family and neighbours in fear.",
+      "url": "https://www.bbc.co.uk/news/world-asia-india-61793828",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/131C8/production/_125408287_dd13b932-ffb8-4945-a7d6-a0e7dcb866bf.jpg",
+      "publishedAt": "2022-06-15T06:20:38Z",
+      "content": "By Zoya MateenBBC News, Delhi\r\nWhat is home?\r\nFor Somaiya Fatima, 19, it's a pale yellow house, tucked in the winding lanes of Prayagraj city in the northern Indian state of Uttar Pradesh, where she … [+8286 chars]",
+      "id": 1
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Varsha Bansal",
+      "title": "The Fight Against Robocall Spam and Scams Heats Up in India",
+      "description": "A new proposal by India's telecom regulator aims to make accurate caller ID mandatory, but critics say it may be fundamentally flawed.",
+      "url": "https://www.wired.com/story/india-robocall-spam-caller-id/",
+      "urlToImage": "https://media.wired.com/photos/62997fd58a06d69f5e44b38a/191:100/w_1280,c_limit/India-Robocalls-Security-GettyImages-1185467070.jpg",
+      "publishedAt": "2022-06-03T11:00:00Z",
+      "content": "Indian phone users may not have to wonder who that unknown caller is for too much longer. Regulatory changes being considered might help them avoid that pesky telemarketer and the annoying call from … [+3951 chars]",
+      "id": 2
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "India home demolitions: 'You broke a family'",
+      "description": "The demolition of Muslim activist Afreen Fatima's house in India has left her family and neighbours in fear.",
+      "url": "https://www.bbc.co.uk/news/world-asia-india-61793828",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/131C8/production/_125408287_dd13b932-ffb8-4945-a7d6-a0e7dcb866bf.jpg",
+      "publishedAt": "2022-06-15T06:20:38Z",
+      "content": "By Zoya MateenBBC News, Delhi\r\nWhat is home?\r\nFor Somaiya Fatima, 19, it's a pale yellow house, tucked in the winding lanes of Prayagraj city in the northern Indian state of Uttar Pradesh, where she … [+8286 chars]",
+      "id": 3
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Phyllida Jay",
+      "title": "Can a Shirt Made in India Beat Savile Row?",
+      "description": "100Hands, a luxury shirtmaker, is betting the answer is yes.",
+      "url": "https://www.nytimes.com/2022/06/27/style/can-a-shirt-made-in-india-beat-savile-row.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/07/10/fashion/100hands8/merlin_208300119_a3d18924-dc1d-4146-b799-66fb12901854-facebookJumbo.jpg",
+      "publishedAt": "2022-06-27T15:44:54Z",
+      "content": "In addition, the pandemic led some Savile Row tailors to close their shops, including the 140-year-old Kilgour, which now operates only online. And rumors swirl about a Marks &amp; Spencer buyout of … [+967 chars]",
+      "id": 4
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "India couple fined for driving SUV on sand dunes",
+      "description": "They were driving on the ecologically sensitive sand dunes of Nubra Valley in northern India.",
+      "url": "https://www.bbc.co.uk/news/world-asia-india-61741815",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/769C/production/_125346303_gettyimages-525158404-594x594.jpg",
+      "publishedAt": "2022-06-10T05:09:21Z",
+      "content": "A couple has been fined for driving an SUV on the ecologically sensitive sand dunes of Nubra Valley in northern India.\r\nPolice said that the couple from Jaipur city were on a vacation in Ladakh. \r\nTh… [+1323 chars]",
+      "id": 5
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "National Sample Survey: How India taught the world the art of collecting data",
+      "description": "India was once a trailblazer in data collection, but its reputation is taking a beating now.",
+      "url": "https://www.bbc.co.uk/news/world-asia-india-61870699",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/178C9/production/_125575469_nehru.jpg",
+      "publishedAt": "2022-06-29T00:39:08Z",
+      "content": "Indian data is staring at a credibility crisis with official numbers on a range of subjects - from Covid deaths to jobs - being questioned by independent experts. But not too long ago, the country wa… [+6706 chars]",
+      "id": 6
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Varsha Bansal",
+      "title": "The Fight Against Robocall Spam and Scams Heats Up in India",
+      "description": "A new proposal by India's telecom regulator aims to make accurate caller ID mandatory, but critics say it may be fundamentally flawed.",
+      "url": "https://www.wired.com/story/india-robocall-spam-caller-id/",
+      "urlToImage": "https://media.wired.com/photos/62997fd58a06d69f5e44b38a/191:100/w_1280,c_limit/India-Robocalls-Security-GettyImages-1185467070.jpg",
+      "publishedAt": "2022-06-03T11:00:00Z",
+      "content": "Indian phone users may not have to wonder who that unknown caller is for too much longer. Regulatory changes being considered might help them avoid that pesky telemarketer and the annoying call from … [+3951 chars]",
+      "id": 7
+    }
+  ]
+}
